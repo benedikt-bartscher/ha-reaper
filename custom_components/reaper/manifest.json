@@ -6,7 +6,7 @@
   "documentation": "https://github.com/kubawolanin/ha-reaper",
   "issue_tracker": "https://github.com/kubawolanin/ha-reaper/issues",
   "requirements": [
-    "python-reaperdaw==0.0.7"
+    "git+https://github.com/benedikt-bartscher/python-reaperdaw"
   ],
   "codeowners": [
     "@kubawolanin"
