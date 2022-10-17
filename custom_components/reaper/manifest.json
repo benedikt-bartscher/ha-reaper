@@ -1,6 +1,6 @@
 {
   "domain": "reaper",
-  "name": "Reaper DAW",
+  "name": "SENBAX Reaper DAW",
   "config_flow": true,
   "version": "0.2.2",
   "documentation": "https://github.com/kubawolanin/ha-reaper",
@@ -9,7 +9,7 @@
     "git+https://github.com/benedikt-bartscher/python-reaperdaw"
   ],
   "codeowners": [
-    "@kubawolanin"
+    "@senbax"
   ],
   "iot_class": "local_polling"
 }
