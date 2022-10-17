@@ -1,5 +1,5 @@
 {
-  "name": "Reaper DAW",
+  "name": "SENBAX Reaper DAW",
   "homeassistant": "2021.9.0",
   "iot_class": "Local Polling",
   "domains": [
